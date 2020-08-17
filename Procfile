@@ -1,0 +1,1 @@
+web: node models/seeds/urlSeeder.js && node app.js
